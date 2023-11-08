@@ -1,0 +1,66 @@
+export const events = [
+  {
+    id: 1,
+    title: 'ReactJS',
+    location: 'Online',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png',
+    date: '2021-10-01',
+    price: 100
+  },
+  {
+    id: 2,
+    title: 'VueJS',
+    location: 'Online',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1280px-Vue.js_Logo_2.svg.png',
+    date: '2021-10-02',
+    price: 500,
+  },
+  {
+    id: 3,
+    title: 'Angular',
+    location: 'Online',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1280px-Angular_full_color_logo.svg.png',
+    date: '2021-10-03',
+    price: 50,
+  },
+  {
+    id: 4,
+    title: 'Svelte',
+    location: 'Online',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1280px-Svelte_Logo.svg.png',
+    date: '2021-10-04',
+    price: 150,
+  },
+  {
+    id: 1,
+    title: 'ReactJS',
+    location: 'Online',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png',
+    date: '2021-10-01',
+    price: 100
+  },
+  {
+    id: 2,
+    title: 'VueJS',
+    location: 'Online',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1280px-Vue.js_Logo_2.svg.png',
+    date: '2021-10-02',
+    price: 500,
+  },
+  {
+    id: 3,
+    title: 'Angular',
+    location: 'Online',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1280px-Angular_full_color_logo.svg.png',
+    date: '2021-10-03',
+    price: 50,
+  },
+  {
+    id: 4,
+    title: 'Svelte',
+    location: 'Online',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1280px-Svelte_Logo.svg.png',
+    date: '2021-10-04',
+    price: 150,
+  },
+]
