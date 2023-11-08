@@ -1,8 +1,8 @@
 function App() {
   return <>
-  <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, nam. Quos, ipsam. Reiciendis explicabo sapiente molestiae libero, quos consequatur dignissimos aspernatur mollitia quas ullam. Delectus provident ipsum facere a inventore.
-  </p>
+    <h1 className="text-3xl font-bold underline">
+      Hello world!
+    </h1>
   </>;
 }
 
