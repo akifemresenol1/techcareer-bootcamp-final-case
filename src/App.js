@@ -1,8 +1,8 @@
+import Events from "./components/Events";
 function App() {
+
   return <>
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <Events />
   </>;
 }
 
