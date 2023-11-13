@@ -7,13 +7,13 @@ import Error from "./pages/Error";
 function App() {
   return (
     <>
-      <Routes>
+      { <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/detail" element={<DetailPage />} />
         <Route path="/detail/:category" element={<CategoryPage />} />
         <Route path="/error" element={<Error />} />
         <Route path="*" element={<Navigate to="/error" replace />} />
-      </Routes>
+      </Routes> }
     </>
   );
 }
