@@ -1,8 +1,9 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function Card(props) {
   return (
-    <>
+    <Link to={`/details/${props.event.id}?category=${props.event.categories}`}>
       <div className="rounded-2xl border w-72 bg-[#F3E6C6]">
         <img
           className="h-72 w-full object-cover rounded-t-2xl object-top"
@@ -35,6 +36,6 @@ export default function Card(props) {
           </button>
         </div>
       </div>
-    </>
+    </Link>
   );
 }
