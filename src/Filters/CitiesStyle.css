@@ -1,0 +1,8 @@
+select {
+  color: black;
+  background-color: #e09870;
+  border: 3px solid grey;
+  border-radius: 7px;
+  overflow-y: scroll;
+  font-size: 125%;
+}

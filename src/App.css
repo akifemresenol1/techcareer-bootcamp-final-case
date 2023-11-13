@@ -1,0 +1,16 @@
+.filterOne {
+  display: grid;
+  column-gap: 5%;
+  grid-template-columns: 5fr 1fr;
+  margin-top: 3%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.filterTwo {
+  display: grid;
+  column-gap: 5%;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 3%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
