@@ -1,4 +1,4 @@
-[
+export let standupData= [
     {
         "id": 1,
         "categories": "standUp",
@@ -7,7 +7,7 @@
         "cities": "İstanbul",
         "livingRoom": "Bostancı Gösteri Merkezi",
         "coordinate": [
-            40.95691291062879,
+            13.95691291062879,
             29.102277496269277
         ],
         "explanation": "Doğu Demirkol'la stund-up gösterisi. 1 saat 30 dakika sürecek gösteriye katılmak için biletinizi alın.",
