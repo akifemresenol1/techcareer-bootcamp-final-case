@@ -12,13 +12,14 @@
     'slider location location'
     'slider socialmedia socialmedia';
     grid-gap: 10px;
-    background-color: #f39121;
+    background-color: rgb(255, 255, 255);
     padding: 10px;
+    
   }
   
   .grid-container > div {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgb(255, 255, 255);
     text-align: center;
-    padding: 20px 0;
-    font-size: 30px;
+    padding:0;
+    font-size: 18px;
   }
